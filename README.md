@@ -1,1 +1,1 @@
-# joga-da-cobrinha
+# jogo-da-cobrinha
